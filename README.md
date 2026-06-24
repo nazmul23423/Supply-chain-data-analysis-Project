@@ -202,23 +202,23 @@ Open `dashboard/Supply_chain_Data_Analysis_dashboard.pbix` in Power BI Desktop.
 
 ## 🔍 Key Insights
 
-> **1. Late Delivery is a Critical Problem**
-> **54.83%** of all orders are delivered late, posing a significant risk to customer satisfaction and retention.
+**1. Late Delivery is a Critical Problem**
+**54.83%** of all orders are delivered late, posing a significant risk to customer satisfaction and retention.
 
-> **2. Consumer Segment Dominates**
-> The Consumer segment accounts for **51.91%** of total Sales, making it the most important customer group to focus on.
+ **2. Consumer Segment Dominates**
+- The Consumer segment accounts for **51.91%** of total Sales, making it the most important customer group to focus on.
 
-> **3. Europe is the Top Market**
-> Europe generates the highest Sales and Profit across all markets, while Africa contributes the least.
+ **3. Europe is the Top Market**
+- Europe generates the highest Sales and Profit across all markets, while Africa contributes the least.
 
-> **4. Fan Shop Department Leads**
-> The Fan Shop department receives the highest total discount (1.74M) and is also the most profitable department overall.
+ **4. Fan Shop Department Leads**
+- The Fan Shop department receives the highest total discount (1.74M) and is also the most profitable department overall.
 
-> **5. Standard Class is Popular but Risky**
-> Standard Class is the most widely used shipping mode, yet it accounts for the highest profit loss due to late deliveries.
+ **5. Standard Class is Popular but Risky**
+- Standard Class is the most widely used shipping mode, yet it accounts for the highest profit loss due to late deliveries.
 
-> **6. High Discount Does Not Mean High Profit**
-> The Q14 analysis reveals that higher discount rates are associated with lower profit margins — indicating a need to revisit the pricing and discount strategy.
+ **6. High Discount Does Not Mean High Profit**
+- The Q14 analysis reveals that higher discount rates are associated with lower profit margins — indicating a need to revisit the pricing and discount strategy.
 
 ---
 
@@ -230,25 +230,9 @@ Charts are generated and saved automatically when you run the Jupyter Notebook. 
 
 ## 🤝 Connect with Me
 
-<div align="center">
+- GitHub: [ @nazmul23423](https://github.com/your-username)
+- LinkedIn: [ md-nazmul-islam-8b5770388](https://linkedin.com/in/md-nazmul-islam-8b5770388)
 
-[![GitHub](https://img.shields.io/badge/GitHub-nazmul23423-black?style=for-the-badge&logo=github)](https://github.com/nazmul23423)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)
-
-</div>
 
 ---
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-
-⭐ **If you found this project helpful, please give it a star!** ⭐
-
-*Made with ❤️ using Python, PostgreSQL & Power BI*
-
-</div>
