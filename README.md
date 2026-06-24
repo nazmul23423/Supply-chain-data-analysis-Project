@@ -4,7 +4,8 @@
 
 - **Tool**         — **Purpose**                          
 
-- **Python (pandas, SQLAlchemy)**   — Data loading & cleaning 
+- **Python (pandas, SQLAlchemy)**   — Data loading & cleaning
+- **Python (matplotlib.pyplot)**   — Python visualizations  
 - **PostgreSQL** — Relational database & SQL queries 
 - **Jupyter Notebook**  — EDA & analysis workflow     
 - **Power BI** — Interactive visualizations        
