@@ -1,14 +1,13 @@
 # 📦 Supply Chain Data Analysis
 
-<div align="center">
+## 🔧 Tech Stack
 
-![Supply Chain](https://img.shields.io/badge/Domain-Supply%20Chain-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blue?style=for-the-badge&logo=postgresql)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-orange?style=for-the-badge&logo=powerbi)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+- **Tool**         — **Purpose**                          
 
-</div>
+- **Python (pandas, SQLAlchemy)**   — Data loading & cleaning 
+- **PostgreSQL** — Relational database & SQL queries 
+- **Jupyter Notebook**  — EDA & analysis workflow     
+- **Power BI** — Interactive visualizations        
 
 ---
 
@@ -22,21 +21,20 @@ The analysis covers **180,519 orders** across **5 global markets** and **53 data
 
 ## 📊 Dataset Overview
 
-| Property | Details |
-|---|---|
-| **Dataset Name** | DataCo Supply Chain Dataset |
-| **Source** | [Kaggle - DataCo Smart Supply Chain](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis) |
-| **Total Records** | ~180,519 rows |
-| **Total Columns** | 53 columns |
-| **Encoding** | Latin-1 |
-| **Date Range** | Multi-year global supply chain orders |
-| **Markets Covered** | Europe, LATAM, Pacific Asia, USCA, Africa |
+- **Property**         — **Details**
+- 
+- **Dataset Name**   —  DataCo Supply Chain Dataset 
+- **Source** —  [Kaggle - DataCo Smart Supply Chain](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis) 
+- **Total Records**   —  ~180,519 rows 
+- **Total Columns**   —  53 columns 
+- **Date Range**  —  Multi-year global supply chain orders 
+- **Markets Covered**   —  Europe, LATAM, Pacific Asia, USCA, Africa 
 
 ### Key Columns Used
-- `Order Id`, `Order Date`, `Shipping Date`, `Delivery Status`
-- `Customer Segment`, `Market`, `Order Region`, `Department Name`, `Category Name`
-- `Sales`, `Order Profit Per Order`, `Order Item Discount Rate`, `Order Item Quantity`
-- `Shipping Mode`, `Days for shipping`, `Days for shipment`, `Product Name`
+- Order Id, Order Date, Shipping Date, Delivery Status
+- Customer Segment, Market, Order Region, Department Name, Category Name
+- Sales, Order Profit Per Order, Order Item Discount Rate, Order Item Quantity
+- Shipping Mode, Days for shipping, Days for shipment, Product Name
 
 ---
 
