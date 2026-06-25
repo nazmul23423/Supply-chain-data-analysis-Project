@@ -172,10 +172,10 @@ jupyter notebook notebooks/Supply_chain.ipynb
 ```
 
 ### Step 7 — Run SQL Queries
-Connect to PostgreSQL and execute the queries in `sql/Supply_Analysis.sql`.
+Connect to PostgreSQL and execute the queries in - < a href="https://github.com/nazmul23423/Supply-chain-data-analysis-Project/blob/master/Supply_Analysis.sql">Sql Query<a/>
 
 ### Step 8 — Open the Power BI Dashboard
-Open `dashboard/Supply_chain_Data_Analysis_dashboard.pbix` in Power BI Desktop.
+- < a href="https://github.com/nazmul23423/Supply-chain-data-analysis-Project/blob/master/Supply%20chain%20Data%20Analysis%20dashboard.pbix">Power bi visualization<a/>
 
 ---
 
@@ -223,9 +223,9 @@ Open `dashboard/Supply_chain_Data_Analysis_dashboard.pbix` in Power BI Desktop.
 
 ---
 
-## 📸 Sample Visualizations
+## Dashboard
 
-Charts are generated and saved automatically when you run the Jupyter Notebook. All visualizations are stored in the `visualizations/` folder.
+- < a href="https://github.com/nazmul23423/Supply-chain-data-analysis-Project/blob/master/Supply%20chain%20Analysis%20visualizations.png">Dashboard image<a/>
 
 ---
 
